@@ -1,6 +1,6 @@
 public class AnotherClass {
 	public static String getName() {
-		return "Igor";
+		return "Kostya";
 	}
 
 	public static int getAge() {
