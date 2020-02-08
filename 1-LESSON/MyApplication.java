@@ -5,7 +5,7 @@ public class MyApplication {
 		String name = AnotherClass.getName();
 		System.out.println("Name = "+name);
 
-		// int age = AnotherClass.getAge();
-		// System.out.println("Age = "+age);
+		int age = AnotherClass.getAge();
+		System.out.println("Age = "+age);
 	}
 }
